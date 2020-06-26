@@ -1,5 +1,12 @@
 wielewaal
 =========
+0
+
+-------    x(4)
+
+9 0 0 9    选 choose, select; elect; election
+
+-------    hex
 
 9 D A F    鶯 oriole
 9 0 2 3    連 join, connect; continuous; even
